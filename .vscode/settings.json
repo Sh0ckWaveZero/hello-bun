@@ -1,6 +1,6 @@
 {
   // The path to the `bun` executable.
-  "bun.runtime": "/opt/homebrew/bin/bun",
+  "bun.runtime": "/Users/sh0ckpro/.bun/bin/bun",
 
   "bun.debugTerminal": {
     // If support for Bun should be added to the default "JavaScript Debug Terminal".
